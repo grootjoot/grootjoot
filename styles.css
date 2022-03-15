@@ -1,0 +1,75 @@
+* {
+    max-width: 1440px;
+    max-height: 100vh;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.body {
+    margin: 0 auto;
+    height: 500px;
+    max-width: 50%;
+    position: relative;
+    padding: 6% 0;
+}
+
+.outerBox {
+    margin: 0 auto;
+    width: 325px;
+    align-items: center;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+
+}
+
+.qrCode {
+    max-width: 500px;
+    padding-top: 13px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    border-radius: 20px;
+}
+
+.messages p {
+    text-align: center;
+    padding-left: 5px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.messages p:first-child {
+    padding-top: 12px;
+    font-weight: 700;
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+}
+
+.messages p:last-child {
+    padding-bottom: 30px;
+    font-size: 17px;
+    color: hsl(220, 15%, 55%);
+}
+
+.attribution {
+    position: relative;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
