@@ -46,12 +46,6 @@ In completing this project I learned that there is no limit to the amount you ca
 
 In future projects I think I will continue focusing on getting specific elements to be transformed in the way I want them to. I am still rusty in my ability to translate certain objects without them losing their formatting. Another focus I will have when working on future projects will be to measure values like scale, font size and font weight because I feel that there were some differences between the values I came up with and the original ones.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
